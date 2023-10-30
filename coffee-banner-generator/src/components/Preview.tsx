@@ -1,7 +1,7 @@
 import React from 'react';
 
 interface Props {
-    coffee: any; // better to use a defined type here if you have one
+    coffee: any; 
     width: number;
     title: string;
     description: string;
